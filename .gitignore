@@ -1,0 +1,3 @@
+# Ignore all, except .tar.gz files in subdirectories
+*/*
+!**/*.tar.gz
